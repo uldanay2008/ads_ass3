@@ -18,4 +18,4 @@ For this experiment, the following algorithms were selected:
 3.  **Binary Search ($O(\log n)$):** An efficient search algorithm that finds the position of a target value within a sorted array by repeatedly dividing the search interval in half.
    
 ## 4. Experimental Results
-![](./screenadsass3/Screenshot 2026-04-25 193520.png)
+![result](./screenadsass3/Screenshot 2026-04-25 193520.png)
