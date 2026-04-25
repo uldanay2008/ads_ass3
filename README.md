@@ -8,12 +8,14 @@ This project is an automated system designed to implement, measure, and analyze 
 
 ## 2. Selected Algorithms
 For this experiment, the following algorithms were selected: 
-Basic Sorting (Category A): Selection Sort 
-Advanced Sorting (Category B): Quick Sort 
-Searching (Category C): Binary Search
+* [cite_start]**Category A (Basic Sorting):** Selection Sort 
+* [cite_start]**Category B (Advanced Sorting):** Quick Sort 
+* [cite_start]**Category C (Searching):** Binary Search 
 
 ## 3. Algorithm Descriptions
-Selection Sort ($O(n^2)$): A simple comparison-based algorithm that repeatedly finds the minimum element from the unsorted part and puts it at the beginning. Quick Sort ($O(n \log n)$): A divide-and-conquer algorithm that picks an element as a 'pivot' and partitions the given array around the picked pivot. Binary Search ($O(\log n)$): An efficient search algorithm that finds the position of a target value within a sorted array by repeatedly dividing the search interval in half.
-
+1.  **Selection Sort ($O(n^2)$):** A simple comparison-based algorithm that repeatedly finds the minimum element from the unsorted part and puts it at the beginning.
+2.  **Quick Sort ($O(n \log n)$):** A divide-and-conquer algorithm that picks an element as a 'pivot' and partitions the given array around the picked pivot.
+3.  **Binary Search ($O(\log n)$):** An efficient search algorithm that finds the position of a target value within a sorted array by repeatedly dividing the search interval in half.
+   
 ## 4. Experimental Results
 !(./screenadsass3/Screenshot 2026-04-25 193520.png)
